@@ -10,7 +10,6 @@
 | **Azure Entra ID User** | Pre-created Entra ID user account | You will receive one Entra ID user account for authentication and access management. |
 | **Azure Subscription Permissions** | Reader role privilege over Azure Subscription | You will get Reader role access on the Azure Subscription. |
 | **Azure Credit** | 20 USD | A consumption limit of 20 USD is applied to manage Azure spending. |
-| **Enabled Licenses** |  |
 | **Credit Alerts** | Credit Alerts are set on consumption of 50%, 75%, 85%, 90%, 95%, and 100% of total Azure credits. | Check your registered email inbox for credit alert notifications to manage your Azure usage effectively. |
 | **Sandbox Duration** | 10 Days / 240 Hours or until Azure Consumption Credits are exhausted | The sandbox environment will be automatically deleted after 30 days or when credits are fully utilized, whichever occurs first. |
 
