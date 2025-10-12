@@ -1,6 +1,6 @@
 # Getting Started with the Lab
 
-1. From the lab guide page, you can view instructions on which resources can be used and deployed, as well as the Azure usage limits.
+1. In lab guide page, you can view instructions on which resources can be used and deployed, as well as the Azure usage limits.
 
 1. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be emailed to your registered email address. 
 
