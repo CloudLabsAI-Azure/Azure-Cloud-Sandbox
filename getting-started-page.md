@@ -2,7 +2,7 @@
 
 1. From the lab guide page, you can view instructions on which resources can be used and deployed, as well as the Azure usage limits.
 
-1. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be emailed to your registered email address. You can also open the Lab Guide in a separate and full window by selecting the **Split Window** from the lower right corner. 
+1. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be emailed to your registered email address. 
 
     ![](media/env-01.jpg)
 
