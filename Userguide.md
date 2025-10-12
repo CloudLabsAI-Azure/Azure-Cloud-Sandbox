@@ -20,7 +20,7 @@
 To monitor and analyse your Azure credit spend, you can navigate to the Azure Subscription page by following the steps mentioned below.
 + From the Azure portal home page, search for **Subscriptions (1)** using the search bar and select the same from the suggestions.
   
-  ![](media/costanlysis.png)
+  ![](media/subscription-01.jpg)
   
 + Select the Cost Analysis tab from the Cost Management pane. You can access a comprehensive breakdown of your Azure spending, offering a granular view of costs associated with various services, and resources. To get the accurate consumed cost by you, select the **Calendar (2)** from **Cost analysis (1)**  then **Custom date Range (3)**.
 
