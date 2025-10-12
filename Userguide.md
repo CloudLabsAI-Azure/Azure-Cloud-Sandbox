@@ -1,17 +1,5 @@
 # Azure-Cloud-Sandbox
 
-## About the Sandbox
-
-Using this environment, you'll be able to explore complete features and offerings offered. Please find the detailed overview of the sandbox environment below.
-
-Pre-provisioned Resource Group :
-
-- One **Windows 2019 Data center** Virtual machines, virtual machine-related resources like Virtual networks, Network security groups, managed disks, Network interface cards, and 
-IP addresses are deployed as part of the automation.
-
-    This virtual machine is tailored and configured to the sandbox's specifications. Packages, and OS configurations are all pre-configured, you can further customize it as per your need. It is recommended that you use the same virtual machine throughout the sandbox.
-
-
 ## Azure Credits
 
 You have been given Azure credit limit of $20 USD which includes the running cost of resources deployed while running through the sandbox.
@@ -39,7 +27,7 @@ To monitor and analyse your Azure credit spend, you can navigate to the Azure Su
 
 ## VM Idle Start/Stop:
 
-The virtual machine is set up with a custom feature called Idle start/stop. This custom package will check the virtual machine's idleness every 2 hours/120 minutes. If the virtual machine is left idle for over 2 hours, a pop-up window will appear, prompting you to respond. If you do not act within 10 minutes, the virtual machine will shut down automatically.This feature is enabled for virtual machines to optimize Azure costs.
+The virtual machine is set up with a custom feature called Idle start/stop. This custom package will check the virtual machine's idleness every 2 hours/120 minutes. If the virtual machine is left idle for over 2 hours, a pop-up window will appear, prompting you to respond. If you do not act within 15 minutes, the virtual machine will shut down automatically.This feature is enabled for virtual machines to optimize Azure costs.
 
 ## Deletion of the Sandbox
 
@@ -50,22 +38,6 @@ When 100% of Azure credits are spent, the sandbox environment will get automatic
 1. **Resources usage:** Please stop the virtual machines and other resources when not in use to minimize the Azure spend.
 
 1. **Alert notifications:** Make sure to check your registered email's inbox for any alert-related mails. Alerts give you can head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
-
-## Sandbox Use Cases
-
-The provided sandbox environment is meticulously equipped with comprehensive privileges, resources, pre-configured accounts, and requisite licenses, all tailored to facilitate and enhance your exploration of the resources. This carefully curated environment is designed to empower users like yourself to delve into the intricacies of the **Power Platform Copilot** with optimal support and efficiency. Here are few of the concepts that can be explored utilizing this sandbox environment.
-
-- Providing real-time intelligent assistance, enabling users to enhance their creativity, productivity, and skills for the following applications:
-
-    - Microsoft EntraID 
-    - Power Apps Copilot 
-    - Power Automate Copilot
-    - Microsoft 365 Apps 
-    - Microsoft Copilot Studio 
-    - Managing users using Power Platform Copilot
-    - Using Copilot Lab for learning the Copilot prompts and finding Power Prompts - those phrases you share with Copilot that accelerate your productivity.
-
-These represent only a fraction of the capabilities that can be attained. Feel free to delve deeper into additional features and offerings of **Power Platform Copilot**.
 
 ## Common Troubleshooting
 
