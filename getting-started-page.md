@@ -16,7 +16,7 @@
 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
    
-     ![](media/image7.png "Enter Email")
+     ![](media/image7-01.png "Enter Email")
 
      > **Note:** If you get a **Download Microsoft Edge mobile app** popup, then click on **Do not show** dropdown and select **Don't show this recommendation again**. 
      
@@ -24,7 +24,7 @@
 
    * Password: <inject key="AzureAdUserPassword"></inject>
    
-     ![](media/Sign-in-page.png "Enter Password")
+     ![](media/Sign-in-page-02.png "Enter Password")
   
 1. If you see the pop-up **Stay Signed in?**, click No
 
