@@ -2,7 +2,7 @@
 
 ## About the Sandbox
 
-Using this environment, you'll be able to explore complete features and offerings offered by **Power Platform Copilot**. Please find the detailed overview of the sandbox environment below.
+Using this environment, you'll be able to explore complete features and offerings offered. Please find the detailed overview of the sandbox environment below.
 
 Pre-provisioned Resource Group :
 
