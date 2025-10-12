@@ -6,7 +6,12 @@
          {
           "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Cloud-Sandbox/refs/heads/main/Userguide.md",
           "Order": 1
-        }     
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Cloud-Sandbox/refs/heads/main/getting-started-page.md",
+          "Order": 2
+        }
+          
       ]
     }
   ]
