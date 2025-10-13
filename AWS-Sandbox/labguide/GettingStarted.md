@@ -6,7 +6,7 @@ Welcome to your Mission to Azure-Cloud-Sandbox workshop! We've prepared a seamle
 
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
-![](../media/guide-01.jpg)
+![](../media/guide-01.png)
 
 ## Lab Guide Zoom In/Zoom Out
  
