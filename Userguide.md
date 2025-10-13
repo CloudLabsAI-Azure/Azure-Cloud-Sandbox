@@ -4,15 +4,26 @@
 
 ## About the Sandbox Environment
 
-| Resources | Value | Remarks |
-| --- | --- | --- |
-| **Enabled Services** | `Azure Storage Account (Blob Storage)` <br> `Azure SQL Database` <br> `Virtual Machine (VM)` <br> `Identity and Access Management (IAM)` <br> `Virtual Network (VNet)` <br> `App Service` <br> `Azure Monitor` <br> `Key Vault` <br> `Azure Functions` | You will have read-level access to the Azure subscription, allowing you to explore and review the available Azure resources mentioned above. |
-| **Azure Entra ID User** | Pre-created Entra ID user account | You will receive one Entra ID user account for authentication and access management. |
-| **Azure Subscription Permissions** | Reader role privilege over Azure Subscription | You will get Reader role access on the Azure Subscription. |
-|**VM Idle Start/Stop**|The virtual machine is set up with a custom feature called Idle start/stop. This custom package will check the virtual machine's idleness every 2 hours/120 minutes. | If the virtual machine is left idle for over 2 hours, a pop-up window will appear, prompting you to respond. If you do not act within 15 minutes, the virtual machine will shut down automatically.This feature is enabled for virtual machines to optimize Azure costs.|
-| **Azure Credit** | 20 USD | A consumption limit of 20 USD is applied to manage Azure spending. |
-| **Credit Alerts** | Credit Alerts are set on consumption of 50%, 75%, 90%, 95%, and 100% of total Azure credits. | Check your registered email inbox for credit alert notifications to manage your Azure usage effectively. |
-| **Sandbox Duration** | 10 Days / 240 Hours or until Azure Consumption Credits are exhausted | The sandbox environment will be automatically deleted after 10 days or when credits are fully utilized, whichever occurs first. |
+### **Sandbox Environment Resource Details**
+
+| **Resources** | **Value / Scope** | **SKU** | **Remarks** |
+| --- | --- | --- | --- |
+| **Azure Storage Account (Blob Storage)** | 1. Allow create & delete buckets.<br>2. Allow upload and delete objects.<br>3. Allowed Features: Enable bucket versioning, Enable event notifications.<br>4. Storage Size: Minimum 1 GB. | **Allowed All SKUs** | Full control for storage-related operations within defined limits. |
+| **Azure SQL Database** | 1. Allow create, update, and delete database instance.<br>2. Database Engine: **MS SQL Server**.<br>3. Instance Size: As per standard configuration.<br>4. Storage: 20 GB.<br>5. Availability Zone: Single AZ.<br>6. Allowed Regions: Standard regions only. | **Allowed all except** `Hyperscale`, `BusinessCritical`, `Premium` | Limited to standard SQL SKUs for cost and performance optimization. |
+| **Virtual Machine (VM)** | 1. Allow launch and terminate instances.<br>2. Instance Type: Free-tier eligible.<br>3. Volume: 30 GB (General Purpose SSD). | **Allowed SKUs:**<br>`Standard_D2s_v3`, `Standard_B2s`, `Standard_B2ms`, `Standard_DS2_v2`, `Standard_D2as_v4`, `Standard_D4s_v3`, `Standard_B4ms`, `Standard_DS3_v2`, `Standard_D4as_v4`, `Standard_B1s`, `Standard_B1ls` | Only listed SKUs are permitted. All others restricted. |
+| **Identity and Access Management (IAM)** | 1. IAM User Creation: Limited to Read-Only.<br>2. IAM Role Creation: Limited to defined services.<br>3. Read Access to IAM Console.<br>4. Create RBAC roles and policies. | N/A | Access limited to predefined roles and scopes. |
+| **Virtual Network (VNet)** | 1. Allow Create, Update, and Delete VNet and associated resources.<br>2. Allow creation of Default VNet and Subnets.<br>3. Allow configuration of Inter-Region Peering. | N/A | Full network configuration within defined subscription scope. |
+| **App Service** | 1. Create App Service for full-stack .NET applications.<br>2. Connect to SQL Server Database.<br>3. Deploy .NET App with App Insights enabled.<br>4. Environment setup via both CLI and Portal. | **All SKUs Allowed** | Full deployment and monitoring permissions. |
+| **Azure Monitor** | 1. Allow creation of 1 Dashboard and 1 Alert.<br>2. Monitor App Service, Database, and VM instances. | Allowed | Limited monitoring resources to observe deployed services. |
+| **Key Vault** | Create and remove key pairs. | **Allowed All SKUs** | Key management supported for encryption and secrets. |
+| **Azure Functions** | Create, edit, and delete multiple Azure Functions with public endpoints and triggers. | **Allowed All SKUs** | Serverless compute allowed for development purposes. |
+| **Azure DevOps Organizations** | Access to Azure Boards for project planning. | Allowed | DevOps project tracking and board setup permitted. |
+| **Azure Entra ID User** | Pre-created Entra ID user account | NA |You will receive one Entra ID user account for authentication and access management. |
+| **Azure Subscription Permissions** | Reader role privilege over Azure Subscription | NA |You will get Reader role access on the Azure Subscription. |
+|**VM Idle Start/Stop**|The virtual machine is set up with a custom feature called Idle start/stop. This custom package will check the virtual machine's idleness every 2 hours/120 minutes. | NA | If the virtual machine is left idle for over 2 hours, a pop-up window will appear, prompting you to respond. If you do not act within 15 minutes, the virtual machine will shut down automatically.This feature is enabled for virtual machines to optimize Azure costs.|
+| **Azure Credit** | 20 USD | NA | A consumption limit of 20 USD is applied to manage Azure spending. |
+| **Credit Alerts** | Credit Alerts are set on consumption of 50%, 75%, 90%, 95%, and 100% of total Azure credits. | NA |Check your registered email inbox for credit alert notifications to manage your Azure usage effectively. |
+| **Sandbox Duration** | 7 Days / 168 Hours or until Azure Consumption Credits are exhausted | NA |The sandbox environment will be automatically deleted after 10 days or when credits are fully utilized, whichever occurs first. |
 
 
 ## Notes:
