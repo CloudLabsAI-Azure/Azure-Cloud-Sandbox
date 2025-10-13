@@ -46,7 +46,7 @@ To monitor and analyse your Azure credit spend, you can navigate to the Azure Su
     + **End Date: (2)** Current or future date. If you select the future date, you can also get the forecasted cost based on the current resources you deployed.
     + You can see the **ACTUAL COST (USD) (4)** and the **FORECAST: CHART VIEW ON (5)** cost.
 
-   ![](media/costanylysis-02.png)
+   ![](media/cost-analysis00.png)
 
 ## Best Practices:
 + **Resources usage:** Please stop the virtual machines, WebApps, Azure Kubernetes service, Azure Container Instance and other resources when not in use to minimize the Azure spend.
