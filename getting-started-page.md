@@ -1,6 +1,6 @@
 ## Getting Started with the Lab
 
-Welcome to your Mission to Transform Contoso Corp with Microsoft 365 Copilot and Agents workshop! We've prepared a seamless environment for you to explore and learn about Copilot and Agent. Let's begin by making the most of this experience:
+Welcome to your Mission to Azure-Cloud-Sandbox workshop! We've prepared a seamless environment for you to explore and learn . Let's begin by making the most of this experience:
 
 ## Accessing Your Lab Environment
 
