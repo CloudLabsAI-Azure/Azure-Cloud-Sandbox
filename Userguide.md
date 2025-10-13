@@ -12,7 +12,7 @@
 |**VM Idle Start/Stop**|The virtual machine is set up with a custom feature called Idle start/stop. This custom package will check the virtual machine's idleness every 2 hours/120 minutes. | If the virtual machine is left idle for over 2 hours, a pop-up window will appear, prompting you to respond. If you do not act within 15 minutes, the virtual machine will shut down automatically.This feature is enabled for virtual machines to optimize Azure costs.|
 | **Azure Credit** | 20 USD | A consumption limit of 20 USD is applied to manage Azure spending. |
 | **Credit Alerts** | Credit Alerts are set on consumption of 50%, 75%, 90%, 95%, and 100% of total Azure credits. | Check your registered email inbox for credit alert notifications to manage your Azure usage effectively. |
-| **Sandbox Duration** | 10 Days / 240 Hours or until Azure Consumption Credits are exhausted | The sandbox environment will be automatically deleted after 30 days or when credits are fully utilized, whichever occurs first. |
+| **Sandbox Duration** | 10 Days / 240 Hours or until Azure Consumption Credits are exhausted | The sandbox environment will be automatically deleted after 10 days or when credits are fully utilized, whichever occurs first. |
 
 
 ## Notes:
