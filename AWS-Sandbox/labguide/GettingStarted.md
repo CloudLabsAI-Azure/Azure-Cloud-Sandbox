@@ -1,4 +1,20 @@
+## Getting Started with the Lab
+
+Welcome to your Mission to Azure-Cloud-Sandbox workshop! We've prepared a seamless environment for you to explore and learn . Let's begin by making the most of this experience:
+
 # Access Guidelines for Sandbox Environments
+
+Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
+
+![](../media/guide-01.jpg)
+
+## Lab Guide Zoom In/Zoom Out
+ 
+To adjust the zoom level for the environment page, click the **A↕: 100%** icon located next to the timer in the lab environment.
+
+![](../../media/gmc2.png)
+
+## Remaining Lab duration
 
 Before starting your testing activities, kindly note that the **lab duration** will be displayed at the top right corner of your lab environment page once you click the **Launch Lab** button. The timer will start automatically, so please keep track of your remaining time while working in the sandbox.
 
