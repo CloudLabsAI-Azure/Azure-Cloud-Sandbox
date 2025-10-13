@@ -58,8 +58,11 @@ Your experience is entirely in your hands—manage your resources wisely to make
 
 ---
 
-### 1. Sign In to the CloudLabs AWS Environment
+## Let's Get Started with AWS Portal
 
+1. On your virtual machine, click on the **Azure Portal** icon as shown below:
+ 
+     ![browser](../media/browser.png)
 1. Sign in to the AWS Management Console by copying the **Sign-in link, Username, and Password** provided below.
 
     * **Sign-in Link**: **<inject key="SignInUrl" enableCopy="true" />**
