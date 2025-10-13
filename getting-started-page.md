@@ -6,6 +6,8 @@ Welcome to your Mission to Azure-Cloud-Sandbox workshop! We've prepared a seamle
 
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
+![](media/guide-01.jpg)
+
 ## Lab Guide Zoom In/Zoom Out
  
 To adjust the zoom level for the environment page, click the **A↕: 100%** icon located next to the timer in the lab environment.
