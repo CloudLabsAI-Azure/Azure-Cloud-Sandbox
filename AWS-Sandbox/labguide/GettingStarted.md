@@ -1,6 +1,6 @@
 ## Getting Started with the Lab
 
-Welcome to your Mission to Azure-Cloud-Sandbox workshop! We've prepared a seamless environment for you to explore and learn . Let's begin by making the most of this experience:
+Welcome to your Mission to AWS-Cloud-Sandbox workshop! We've prepared a seamless environment for you to explore and learn . Let's begin by making the most of this experience:
 
 # Access Guidelines for Sandbox Environments
 
@@ -16,7 +16,9 @@ To adjust the zoom level for the environment page, click the **A↕: 100%** icon
 
 ## Remaining Lab duration
 
-Before starting your testing activities, kindly note that the **lab duration** will be displayed at the top right corner of your lab environment page once you click the **Launch Lab** button. The timer will start automatically, so please keep track of your remaining time while working in the sandbox.
+Please keep an eye on the lab timer displayed on the right side of the header -  it shows the remaining time for your lab environment. Once the lab duration ends, the environment and all associated credentials and resources will be automatically deleted.
+ 
+If you’re unable to complete your lab or testing within the allotted time and need an extension, please contact our support team at cloudlabs-support@spektrasystems.com before the environment is deleted.
 
 ![](../media/labdurationv2ui.png)
 
