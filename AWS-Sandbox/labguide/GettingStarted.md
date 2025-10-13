@@ -2,7 +2,7 @@
 
 Welcome to your Mission to AWS-Cloud-Sandbox workshop! We've prepared a seamless environment for you to explore and learn . Let's begin by making the most of this experience:
 
-# Access Guidelines for Sandbox Environments
+# Access Guidelines for Sandbox Environment
 
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
@@ -60,7 +60,7 @@ Your experience is entirely in your hands—manage your resources wisely to make
 
 ## Let's Get Started with AWS Portal
 
-1. On your virtual machine, click on the **Browser** icon of your choice as shown below:
+1. On your JumpBox (VM), click on the **Browser** icon of your choice as shown below:
  
      ![browser](../media/browser.png)
 1. Sign in to the AWS Management Console by copying the **Sign-in link, Username, and Password** provided below.
