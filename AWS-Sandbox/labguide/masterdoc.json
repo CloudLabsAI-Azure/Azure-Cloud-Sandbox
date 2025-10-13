@@ -1,0 +1,17 @@
+[
+    {
+      "Name": "AWS Sandbox",
+      "Language": "English",
+      "BaseURL": "https://github.com/Afzal-exe/aws-presales/new/main",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Afzal-exe/aws-presales/refs/heads/main/labguide/GettingStarted.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Afzal-exe/aws-presales/refs/heads/main/labguide/userGuide.md",
+          "Order": 2
+        }
+      ]
+    }
+  ]
