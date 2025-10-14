@@ -46,15 +46,10 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
      
 1. Now enter the following password and click on **Sign in (2)**.
    
-   * **Password:** <inject key="AzureAdUserPassword"></inject> **(1)**
+   * **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject> **(1)**
    
-      ![OpenAI](media/pass.png)
+      ![OpenAI](media/TAP-1.png)
 
-1. If you see the pop-up **Action Required**, keep default and then click on **Ask later**. If you see the pop-up Help us protect your account, click on **Skip for now** (14 days until this is required), and then click on **Next**.
-
-   ![Asklater](media/asklater.png)
-
-   >**NOTE:** Do not enable MFA, select **Ask Later**.
      
 1. If prompted to **Stay signed in?**, click **"No"**.
  
