@@ -1,8 +1,8 @@
 ## Getting Started with the Lab
 
-Welcome to your Mission to Azure-Cloud-Sandbox workshop! We've prepared a seamless environment for you to explore and learn . Let's begin by making the most of this experience:
+Welcome to Azure-Cloud-Sandbox environment. We have prepared a seamless environment for you to explore and learn. Let's begin by making the most of this experience:
 
-## Accessing Your Lab Environment
+## Accessing Your Sandbox Environment
 
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
